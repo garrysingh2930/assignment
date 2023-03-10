@@ -1,0 +1,23 @@
+# Ignore build files
+build/
+dist/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore Eclipse files
+.classpath
+.project
+.settings/
+
+# Ignore Maven files
+target/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*~
+
+# Ignore macOS files
+.DS_Store
